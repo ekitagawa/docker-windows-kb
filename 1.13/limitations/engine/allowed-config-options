@@ -1,0 +1,3 @@
+### Not all config options are applicable to Docker Engine on Windows
+
+Full list of the Windows options are [available on our documentation](https://docs.docker.com/engine/reference/commandline/dockerd/#/windows-configuration-file)
